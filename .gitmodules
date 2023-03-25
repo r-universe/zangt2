@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "obcost"]
+	path = obcost
+	url = https://github.com/cran/obcost
+	shallow = true
+	registered = true
